@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "480329879410",
+    "firebase_url": "https://dubsmash-75a05.firebaseio.com",
+    "project_id": "dubsmash-75a05",
+    "storage_bucket": "dubsmash-75a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480329879410:android:cb8acb246a49c3940317eb",
+        "android_client_info": {
+          "package_name": "com.devyat.alhani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480329879410-2rrvu2j88o8bvii2bmkkn2uqgedf4gfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devyat.alhani",
+            "certificate_hash": "4089fb768e2f15c2dd6a47be21b2c7e319c69fe0"
+          }
+        },
+        {
+          "client_id": "480329879410-5vo7t1flr5mglfeoudkf75iics4vin7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devyat.alhani",
+            "certificate_hash": "cd046e04b7f46a1d3759e8c790c47790cea2f53b"
+          }
+        },
+        {
+          "client_id": "480329879410-8cq4gifquk2bba6fa6pdutg57emk8d8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devyat.alhani",
+            "certificate_hash": "d4d125e21446e425daa5fd045a9559bfdc74a793"
+          }
+        },
+        {
+          "client_id": "480329879410-r83rvu3ntfhn1lm2dc2e8r399fvqbrqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yDkbdl4ePr6TCVynjEgapOyf-6fXCXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480329879410-r83rvu3ntfhn1lm2dc2e8r399fvqbrqf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480329879410-5qnhsopt4spd1u52fnlg64cuoosgsvoo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devyat.alhani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
